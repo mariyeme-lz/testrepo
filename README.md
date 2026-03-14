@@ -1,3 +1,2 @@
-# testrepo
-testing repository
-this is the first markdown file.
+# Final project
+This is my final project for Applied Data Science Capstone Course in Coursera.
